@@ -98,5 +98,5 @@ Deploy a classification model to categorize a user's gender.
 Build a recommendation model to provide hotel suggestions based on user preferences and historical data. Develop a Streamlit web application to display insights and visualizations derived from the deployed travel recommendation model, offering an interactive and user-friendly interface for data exploration.
 
 
-date: Date of the flight.
+
 
