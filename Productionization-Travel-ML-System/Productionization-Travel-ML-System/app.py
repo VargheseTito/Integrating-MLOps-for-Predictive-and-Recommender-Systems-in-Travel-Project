@@ -2,7 +2,7 @@
 import pandas as pd
 import pickle
 
-#Import flask libraries
+#Import flask library
 from flask import Flask, render_template, request, jsonify
 
 #function to predict the price
